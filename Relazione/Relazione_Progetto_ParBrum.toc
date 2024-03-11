@@ -1,0 +1,38 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {chapter}{\numberline {1}ParBrum}{2}{}%
+\contentsline {section}{\numberline {1.1}Introduzione}{2}{}%
+\contentsline {subsection}{\numberline {1.1.1}Architettura del sistema}{2}{}%
+\contentsline {section}{\numberline {1.2}Struttura del parcheggio}{2}{}%
+\contentsline {chapter}{\numberline {2}Software}{4}{}%
+\contentsline {section}{\numberline {2.1}Web Application}{4}{}%
+\contentsline {section}{\numberline {2.2}Front End - Angular}{4}{}%
+\contentsline {subsection}{\numberline {2.2.1}Home page}{5}{}%
+\contentsline {subsection}{\numberline {2.2.2}Informazioni del parcheggio}{5}{}%
+\contentsline {subsubsection}{Condizioni meteo}{6}{}%
+\contentsline {subsection}{\numberline {2.2.3}Richiesta di prenotazione}{6}{}%
+\contentsline {subsubsection}{Email di Conferma}{7}{}%
+\contentsline {subsection}{\numberline {2.2.4}Prenotazione}{7}{}%
+\contentsline {subsubsection}{Recupero della prenotazione}{8}{}%
+\contentsline {section}{\numberline {2.3}Back End - Django}{9}{}%
+\contentsline {subsection}{\numberline {2.3.1}Models}{9}{}%
+\contentsline {subsection}{\numberline {2.3.2}Views}{9}{}%
+\contentsline {subsubsection}{QrCode}{10}{}%
+\contentsline {subsection}{\numberline {2.3.3} JWT JSON Web Tokens}{11}{}%
+\contentsline {chapter}{\numberline {3}Hardware}{12}{}%
+\contentsline {section}{\numberline {3.1}Raspberry e Arduino}{12}{}%
+\contentsline {subsection}{\numberline {3.1.1}PyFirmata}{12}{}%
+\contentsline {subsection}{\numberline {3.1.2}Apertura sbarra}{13}{}%
+\contentsline {subsubsection}{Lettura e controllo dati contenuti nel QrCode}{13}{}%
+\contentsline {section}{\numberline {3.2}Raspberry}{13}{}%
+\contentsline {subsubsection}{RPi GPIO}{14}{}%
+\contentsline {subsection}{\numberline {3.2.1}Calcolo della temperatura}{14}{}%
+\contentsline {subsection}{\numberline {3.2.2}Visualizzazione informazioni LCD}{15}{}%
+\contentsline {subsection}{\numberline {3.2.3}Controllo del meteo, temperatura e umidità}{16}{}%
+\contentsline {subsubsection}{Inserimento informazioni sensori nel database}{16}{}%
+\contentsline {subsection}{\numberline {3.2.4}Apertura e chiusura del tetto}{16}{}%
+\contentsline {subsection}{\numberline {3.2.5}Main}{17}{}%
+\contentsline {subsection}{\numberline {3.2.6}Uscita dal parcheggio}{17}{}%
+\contentsline {chapter}{\numberline {4}Conclusioni}{18}{}%
+\contentsline {section}{\numberline {4.1}Possibili sviluppi futuri}{18}{}%
+\contentsline {section}{\numberline {4.2}Informazioni conclusive}{18}{}%

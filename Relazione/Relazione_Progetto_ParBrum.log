@@ -1,0 +1,840 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.7.11)  14 JUL 2021 18:34
+entering extended mode
+**./Relazione_Progetto_ParBrum.tex
+(Relazione_Progetto_ParBrum.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen139
+\l@babelnohyphens=\language83
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.de
+f)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count189
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-italian\itali
+an.ldf
+Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
+\it@lettering=\count190
+\it@doublequoteactive=\count191
+\it@ISOcompliance=\count192
+))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.s
+ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count194
+\float@exts=\toks17
+\float@box=\box47
+\@float@everytoks=\toks18
+\@floatcapt=\box48
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.st
+y
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen142
+\captionmargin@=\dimen143
+\captionwidth=\dimen144
+\caption@tempdima=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count195
+\c@continuedfloat=\count196
+Package caption Info: float package is loaded.
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaption.
+sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count197
+\c@subtable=\count198
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.s
+ty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count199
+\Gm@cntv=\count266
+\c@Gm@tempcnt=\count267
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks20
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.c
+fg)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (483.69684pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (759.68857pt) is ignored.
+
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/background\backgrou
+nd.sty
+Package: background 2014/03/04 v2.1 background material
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.t
+ex
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.
+tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+)
+\XKV@depth=\count268
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\t
+ikz.sty
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.
+sty
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrc
+s.sty
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+util-common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen157
+\pgfutil@tempdimb=\dimen158
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+util-common-lists.tex))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+util-latex.def
+\pgfutil@abb=\box49
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+rcs.code.tex
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision.
+tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgfc
+ore.sty
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\pgf
+sys.sty
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+keys.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+keysfiltered.code.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen159
+\pgf@y=\dimen160
+\pgf@xa=\dimen161
+\pgf@ya=\dimen162
+\pgf@xb=\dimen163
+\pgf@yb=\dimen164
+\pgf@xc=\dimen165
+\pgf@yc=\dimen166
+\pgf@xd=\dimen167
+\pgf@yd=\dimen168
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count269
+\c@pgf@countb=\count270
+\c@pgf@countc=\count271
+\c@pgf@countd=\count272
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count273
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count274
+\pgfsyssoftpath@bigbuffer@items=\count275
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+code.tex
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathc
+alc.code.tex
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathu
+til.code.tex)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathp
+arser.code.tex
+\pgfmath@dimen=\dimen169
+\pgfmath@count=\count276
+\pgfmath@box=\box50
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.code.tex
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.basic.code.tex)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.trigonometric.code.tex)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.random.code.tex)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.comparison.code.tex)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.base.code.tex)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.round.code.tex)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.misc.code.tex)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.integerarithmetics.code.tex)))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+loat.code.tex
+\c@pgfmathroundto@lastzeros=\count277
+))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfint.c
+ode.tex)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen170
+\pgf@picmaxx=\dimen171
+\pgf@picminy=\dimen172
+\pgf@picmaxy=\dimen173
+\pgf@pathminx=\dimen174
+\pgf@pathmaxx=\dimen175
+\pgf@pathminy=\dimen176
+\pgf@pathmaxy=\dimen177
+\pgf@xx=\dimen178
+\pgf@xy=\dimen179
+\pgf@yx=\dimen180
+\pgf@yy=\dimen181
+\pgf@zx=\dimen182
+\pgf@zy=\dimen183
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen184
+\pgf@path@lasty=\dimen185
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen186
+\pgf@shorten@start@additional=\dimen187
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box51
+\pgf@hbox=\box52
+\pgf@layerbox@main=\box53
+\pgf@picture@serial@count=\count278
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen188
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen189
+\pgf@pt@y=\dimen190
+\pgf@pt@temp=\dimen191
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorequick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen192
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen193
+\pgf@sys@shading@range@num=\count279
+\pgf@shadingcount=\count280
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box54
+))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+duleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box55
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+duleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\p
+gfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen194
+\pgf@nodesepend=\dimen195
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\p
+gfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgffo
+r.sty
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfke
+ys.sty
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+keys.code.tex))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.st
+y
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+code.tex))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+for.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+code.tex)
+\pgffor@iter=\dimen196
+\pgffor@skip=\dimen197
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz\tikz.code.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pgf
+libraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count281
+\pgfplotmarksize=\dimen198
+)
+\tikz@lastx=\dimen199
+\tikz@lasty=\dimen256
+\tikz@lastxsaved=\dimen257
+\tikz@lastysaved=\dimen258
+\tikz@lastmovetox=\dimen259
+\tikz@lastmovetoy=\dimen260
+\tikzleveldistance=\dimen261
+\tikzsiblingdistance=\dimen262
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count282
+\tikznumberofchildren=\count283
+\tikznumberofcurrentchild=\count284
+\tikz@fig@count=\count285
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+dulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count286
+\pgfmatrixcurrentcolumn=\count287
+\pgf@matrix@numberofcolumns=\count288
+)
+\tikz@expandcount=\count289
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/everypage\everypage
+.sty
+Package: everypage 2020/10/17 R2.0b Hooks to run on every page
+
+
+Package everypage Warning: Functionality similar to this package has recently
+(everypage)                been implemented in LaTeX. This package is now in
+(everypage)                legacy status.
+(everypage)                Please, don't use it in new documents and packages.
+
+
+Package everypage Warning: You appear to be running a version of LaTeX
+(everypage)                providing the new functionality.
+(everypage)                Doing the best to deliver the original `everypage`
+(everypage)                interface on top of it. Strict equivalence is
+(everypage)                not possible, breakage may occur.
+(everypage)                If truly needed, Use `everypage-1x` to force the
+(everypage)                loading of an older code base.
+
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools\afterpa
+ge.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks35
+\AP@partial=\box60
+\AP@footins=\box61
+))
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count290
+\l__pdf_internal_box=\box62
+) (Relazione_Progetto_ParBrum.aux
+
+LaTeX Warning: Label `temp' multiply defined.
+
+)
+\openout1 = `Relazione_Progetto_ParBrum.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Info: Redefining \it@ocap on input line 21.
+LaTeX Info: Redefining \it@ccap on input line 21.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 21.
+
+
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count291
+\scratchdimen=\dimen263
+\scratchbox=\box63
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen264
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks37
+)
+(C:\Users\loris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
+df-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(59.75078pt, 478.00632pt, 59.75078pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=478.00632pt
+* \textheight=759.6886pt
+* \oddsidemargin=-12.51921pt
+* \evensidemargin=-12.51921pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<uniud.jpg, id=4, 597.31155pt x 845.19765pt>
+File: uniud.jpg Graphic file (type jpg)
+<use uniud.jpg>
+Package pdftex.def Info: uniud.jpg  used on input line 41.
+(pdftex.def)             Requested size: 597.56528pt x 845.05371pt.
+[1
+
+
+{C:/Users/loris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./uniud.jpg
+>] (Relazione_Progetto_ParBrum.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+)
+\tf@toc=\write4
+\openout4 = `Relazione_Progetto_ParBrum.toc'.
+
+ [1
+
+]
+Capitolo 1.
+<./figure//modello_1.jpg, id=16, 963.6pt x 541.27219pt>
+File: ./figure//modello_1.jpg Graphic file (type jpg)
+<use ./figure//modello_1.jpg>
+Package pdftex.def Info: ./figure//modello_1.jpg  used on input line 60.
+(pdftex.def)             Requested size: 430.20276pt x 241.64584pt.
+<./figure//modello_2.jpg, id=17, 963.6pt x 541.27219pt>
+File: ./figure//modello_2.jpg Graphic file (type jpg)
+<use ./figure//modello_2.jpg>
+Package pdftex.def Info: ./figure//modello_2.jpg  used on input line 66.
+(pdftex.def)             Requested size: 215.10138pt x 120.82292pt.
+<./figure//modello_3.jpg, id=18, 963.6pt x 541.27219pt>
+File: ./figure//modello_3.jpg Graphic file (type jpg)
+<use ./figure//modello_3.jpg>
+Package pdftex.def Info: ./figure//modello_3.jpg  used on input line 71.
+(pdftex.def)             Requested size: 215.10138pt x 120.82292pt.
+[2
+
+] [3 <./figure//modello_1.jpg> <./figure//modello_2.jpg> <./figure//modello_3.j
+pg>]
+Capitolo 2.
+[4
+
+]
+<./figure//home_page.png, id=29, 231.264pt x 502.2765pt>
+File: ./figure//home_page.png Graphic file (type png)
+<use ./figure//home_page.png>
+Package pdftex.def Info: ./figure//home_page.png  used on input line 109.
+(pdftex.def)             Requested size: 119.50157pt x 259.54517pt.
+<./figure//info_parcheggio.png, id=31, 222.8325pt x 476.982pt>
+File: ./figure//info_parcheggio.png Graphic file (type png)
+<use ./figure//info_parcheggio.png>
+Package pdftex.def Info: ./figure//info_parcheggio.png  used on input line 117.
+
+(pdftex.def)             Requested size: 119.50157pt x 255.79784pt.
+<./figure//weatherMap.png, id=32, 449.2785pt x 342.68025pt>
+File: ./figure//weatherMap.png Graphic file (type png)
+<use ./figure//weatherMap.png>
+Package pdftex.def Info: ./figure//weatherMap.png  used on input line 126.
+(pdftex.def)             Requested size: 262.90492pt x 200.53772pt.
+ [5 <./figure//home_page.png> <./figure//info_parcheggio.png>]
+<./figure//prenotazione.png, id=38, 222.8325pt x 480.5955pt>
+File: ./figure//prenotazione.png Graphic file (type png)
+<use ./figure//prenotazione.png>
+Package pdftex.def Info: ./figure//prenotazione.png  used on input line 136.
+(pdftex.def)             Requested size: 119.50157pt x 257.73572pt.
+<figure/email_parbrum.PNG, id=39, 456.5055pt x 507.0945pt>
+File: figure/email_parbrum.PNG Graphic file (type png)
+<use figure/email_parbrum.PNG>
+Package pdftex.def Info: figure/email_parbrum.PNG  used on input line 144.
+(pdftex.def)             Requested size: 215.10138pt x 238.93797pt.
+ [6 <./figure//weatherMap.png> <./figure//prenotazione.png>]
+<./figure//prenotazione_effettuata.png, id=45, 222.8325pt x 486.618pt>
+File: ./figure//prenotazione_effettuata.png Graphic file (type png)
+<use ./figure//prenotazione_effettuata.png>
+Package pdftex.def Info: ./figure//prenotazione_effettuata.png  used on input l
+ine 153.
+(pdftex.def)             Requested size: 119.50157pt x 260.96548pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--156
+
+ []
+
+[7 <./figure/email_parbrum.PNG> <./figure//prenotazione_effettuata.png>]
+[8]
+<./figure//models_py.png, id=54, 574.5465pt x 329.43076pt>
+File: ./figure//models_py.png Graphic file (type png)
+<use ./figure//models_py.png>
+Package pdftex.def Info: ./figure//models_py.png  used on input line 169.
+(pdftex.def)             Requested size: 358.50473pt x 205.56195pt.
+<./figure//urls_py.png, id=55, 523.9575pt x 43.96425pt>
+File: ./figure//urls_py.png Graphic file (type png)
+<use ./figure//urls_py.png>
+Package pdftex.def Info: ./figure//urls_py.png  used on input line 178.
+(pdftex.def)             Requested size: 358.50473pt x 30.08244pt.
+<./figure//views_py.png, id=56, 487.22025pt x 260.77425pt>
+File: ./figure//views_py.png Graphic file (type png)
+<use ./figure//views_py.png>
+Package pdftex.def Info: ./figure//views_py.png  used on input line 182.
+(pdftex.def)             Requested size: 358.50473pt x 191.87964pt.
+ [9 <./figure//models_py.png>]
+<./figure//qr_py.png, id=61, 534.798pt x 367.3725pt>
+File: ./figure//qr_py.png Graphic file (type png)
+<use ./figure//qr_py.png>
+Package pdftex.def Info: ./figure//qr_py.png  used on input line 193.
+(pdftex.def)             Requested size: 358.50473pt x 246.27281pt.
+ [10 <./figure//urls_py.png> <./figure//views_py.png> <./figure//qr_py.png>]
+<./figure//jwt_py.png, id=68, 527.571pt x 150.5625pt>
+File: ./figure//jwt_py.png Graphic file (type png)
+<use ./figure//jwt_py.png>
+Package pdftex.def Info: ./figure//jwt_py.png  used on input line 206.
+(pdftex.def)             Requested size: 358.50473pt x 102.31221pt.
+ [11 <./figure//jwt_py.png>]
+Capitolo 3.
+<figure/ini_arduino.jpg, id=73, 385.44pt x 274.02374pt>
+File: figure/ini_arduino.jpg Graphic file (type jpg)
+<use figure/ini_arduino.jpg>
+Package pdftex.def Info: figure/ini_arduino.jpg  used on input line 223.
+(pdftex.def)             Requested size: 239.00316pt x 169.91386pt.
+<figure/apertura_sbarra.png, id=74, 711.8595pt x 295.1025pt>
+File: figure/apertura_sbarra.png Graphic file (type png)
+<use figure/apertura_sbarra.png>
+Package pdftex.def Info: figure/apertura_sbarra.png  used on input line 232.
+(pdftex.def)             Requested size: 358.50473pt x 148.61806pt.
+[12
+
+ <./figure/ini_arduino.jpg>]
+<figure/cattura_qrCode.jpg, id=79, 549.252pt x 298.716pt>
+File: figure/cattura_qrCode.jpg Graphic file (type jpg)
+<use figure/cattura_qrCode.jpg>
+Package pdftex.def Info: figure/cattura_qrCode.jpg  used on input line 242.
+(pdftex.def)             Requested size: 358.50473pt x 194.97441pt.
+<figure/GPIO-Pinout-Diagram-2.png, id=80, 2071.74pt x 1189.44376pt>
+File: figure/GPIO-Pinout-Diagram-2.png Graphic file (type png)
+<use figure/GPIO-Pinout-Diagram-2.png>
+Package pdftex.def Info: figure/GPIO-Pinout-Diagram-2.png  used on input line 2
+57.
+(pdftex.def)             Requested size: 473.22887pt x 271.67877pt.
+ [13 <./figure/apertura_sbarra.png> <./figure/cattura_qrCode.jpg>]
+<./figure//temperatura_rasp.jpg, id=86, 496.254pt x 380.01974pt>
+File: ./figure//temperatura_rasp.jpg Graphic file (type jpg)
+<use ./figure//temperatura_rasp.jpg>
+Package pdftex.def Info: ./figure//temperatura_rasp.jpg  used on input line 265
+.
+(pdftex.def)             Requested size: 358.50473pt x 274.53598pt.
+ [14 <./figure/GPIO-Pinout-Diagram-2.png (PNG copy)> <./figure//temperatura_ras
+p.jpg>]
+<./figure//lcd_1.jpg, id=91, 385.44pt x 371.88937pt>
+File: ./figure//lcd_1.jpg Graphic file (type jpg)
+<use ./figure//lcd_1.jpg>
+Package pdftex.def Info: ./figure//lcd_1.jpg  used on input line 279.
+(pdftex.def)             Requested size: 310.70119pt x 299.77605pt.
+<./figure//lcd_2.jpg, id=92, 647.41875pt x 248.127pt>
+File: ./figure//lcd_2.jpg Graphic file (type jpg)
+<use ./figure//lcd_2.jpg>
+Package pdftex.def Info: ./figure//lcd_2.jpg  used on input line 288.
+(pdftex.def)             Requested size: 358.50473pt x 137.39786pt.
+ [15 <./figure//lcd_1.jpg> <./figure//lcd_2.jpg>]
+<figure/meteo_1.jpg, id=97, 659.46375pt x 333.6465pt>
+File: figure/meteo_1.jpg Graphic file (type jpg)
+<use figure/meteo_1.jpg>
+Package pdftex.def Info: figure/meteo_1.jpg  used on input line 297.
+(pdftex.def)             Requested size: 358.50473pt x 181.38318pt.
+<./figure//servo_1.jpg, id=98, 552.26324pt x 367.3725pt>
+File: ./figure//servo_1.jpg Graphic file (type jpg)
+<use ./figure//servo_1.jpg>
+Package pdftex.def Info: ./figure//servo_1.jpg  used on input line 312.
+(pdftex.def)             Requested size: 239.00316pt x 158.9873pt.
+<./figure//servo_2.jpg, id=99, 535.40025pt x 367.97475pt>
+File: ./figure//servo_2.jpg Graphic file (type jpg)
+<use ./figure//servo_2.jpg>
+Package pdftex.def Info: ./figure//servo_2.jpg  used on input line 317.
+(pdftex.def)             Requested size: 231.83334pt x 159.33778pt.
+
+[16 <./figure/meteo_1.jpg> <./figure//servo_1.jpg> <./figure//servo_2.jpg>]
+<figure/web_server.png, id=106, 639.5895pt x 502.2765pt>
+File: figure/web_server.png Graphic file (type png)
+<use figure/web_server.png>
+Package pdftex.def Info: figure/web_server.png  used on input line 335.
+(pdftex.def)             Requested size: 358.50473pt x 281.54117pt.
+
+[17 <./figure/web_server.png>]
+Capitolo 4.
+[18
+
+] (Relazione_Progetto_ParBrum.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 15139 strings out of 479300
+ 303334 string characters out of 2853552
+ 592129 words of memory out of 3000000
+ 32333 multiletter control sequences out of 15000+200000
+ 409846 words of font info for 48 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 102i,12n,103p,795b,774s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/loris/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm
+-super-ts1.enc}<C:/Users/loris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx10.pfb><C:/Users/loris/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/loris/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/loris/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lori
+s/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on Relazione_Progetto_ParBrum.pdf (19 pages, 1338090 bytes).
+PDF statistics:
+ 133 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
+
